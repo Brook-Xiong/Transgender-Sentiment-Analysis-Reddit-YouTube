@@ -36,6 +36,7 @@ To run the Python demo scripts successfully:
 ```python
 import nltk
 nltk.download('vader_lexicon')
+```
 
 ---
 
@@ -64,5 +65,6 @@ The full datasets (original Reddit: 25.8 MB, YouTube: 17.2 MB) were used dur
    - Open `notebooks/` folder.  
    - **Recommended:** Use Google Colab to run the scripts without worrying about local library versions.  
    - Alternatively, run locally with Python >=3.9 and the required libraries installed.  
+```
 
 ---
