@@ -33,7 +33,7 @@ To run the Python demo scripts successfully:
 - Python >= 3.9
 - Libraries: `pandas`, `nltk`, `matplotlib`, `seaborn`, `numpy-2.2.6`, `scipy-1.15.3`
 - Ensure NLTK datasets (like `vader_lexicon`) are downloaded:
-- 
+  
 ```python
 import nltk
 nltk.download('vader_lexicon')
@@ -41,7 +41,7 @@ nltk.download('vader_lexicon')
 
 ---
 
-## Sample Dataset for Demonstration
+## 📊 Sample Dataset for Demonstration
 
 Due to the file size constraints, we have included **sample datasets** which are less than 10 MB instead of full data.
 
@@ -59,7 +59,7 @@ The full datasets (original Reddit: 25.8 MB, YouTube: 17.2 MB) were used dur
 
 ---
 
-### **Optional: Add in How to Run Demo**
+## 🈸 How to Run Demo
 ```markdown
 ## ▶️ How to Run the Demo
 1. **Jupyter Notebook Scripts**
