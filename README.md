@@ -33,6 +33,7 @@ To run the Python demo scripts successfully:
 - Python >= 3.9
 - Libraries: `pandas`, `nltk`, `matplotlib`, `seaborn`, `numpy-2.2.6`, `scipy-1.15.3`
 - Ensure NLTK datasets (like `vader_lexicon`) are downloaded:
+- 
 ```python
 import nltk
 nltk.download('vader_lexicon')
